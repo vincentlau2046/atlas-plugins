@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-09T00:00:00Z",
+  "comment": "AtlasCode 单文件安装数计数后端（0.1.46 S4 #301）。客户端显数面 GET 本文件（per-marketplace 注册表：atlas-plugins/agent-skills 两市场共享）；条目 key = pluginId（name@marketplace）。初始零计数 = 诚实基线（不伪造社会证明数据），随安装上报面（ATLAS_STATS_ENDPOINT 后端）聚合后更新本文件。",
+  "plugins": []
+}
